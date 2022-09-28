@@ -22,8 +22,7 @@ public class App {
                 "       /\\__/\\ \\__O (__" + System.lineSeparator() +
                 "      (--/\\--)    \\__/" + System.lineSeparator() +
                 "      _)(  )(_" + System.lineSeparator() +
-                "     `---''---`");
-    }
+                "     `---''---`");    }
 
     //todo Task 3
     public void sumOfLiterals(){

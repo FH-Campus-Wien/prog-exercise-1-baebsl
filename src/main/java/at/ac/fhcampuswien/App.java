@@ -13,7 +13,7 @@ public class App {
     //todo Task 2
     public void helloRobot(){
         // input your solution here
-        System.out.println("0123456789012345678901\r\n" +
+        System.out.println("0123456789012345678901" +  System.lineSeparator() +
                 "         __" + System.lineSeparator() +
                 " _(\\    |@@|" + System.lineSeparator() +
                 "(__/\\__ \\--/ __" + System.lineSeparator() +
